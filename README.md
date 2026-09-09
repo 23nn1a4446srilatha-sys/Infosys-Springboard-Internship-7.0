@@ -1,4 +1,4 @@
-#Infosys Springboard Internship 7.0
+
 # 📊 Supply Chain Visibility & Optimization
 
 ### Infosys Springboard Internship 7.0
