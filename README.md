@@ -1,98 +1,144 @@
- # Infosys Springboard Internship 7.0
+#Infosys Springboard Internship 7.0
+# 📊 Supply Chain Visibility & Optimization
 
-## Data Analysis and Visualization Project (SUPPLY CHAIN VISIBILITY AND OPTIMIZATION)
+### Infosys Springboard Internship 7.0
 
-This repository contains the work completed as part of the **Infosys Springboard Internship 7.0**.
+Welcome to my **Infosys Springboard Internship 7.0 project repository**.
 
-The project focuses on data cleaning, data analysis, visualization, KPI development, and dashboard development using Python and Microsoft Power BI. The work was completed through multiple milestones, with each milestone covering a specific stage of the project.
-
----
-
-## Project Objectives
-
-The main objectives of this project are:
-
-* To understand and clean real-world datasets.
-* To perform data preprocessing and analysis.
-* To identify useful patterns and insights from data.
-* To create meaningful visualizations.
-* To develop KPIs for analyzing supply chain performance.
-* To create interactive dashboards using Power BI.
-* To analyze supply chain visibility and performance.
-* To present the analysis and findings through reports and presentations.
+This project focuses on analyzing supply chain data and developing interactive dashboards to understand business performance, identify important trends, monitor KPIs, and support better decision-making through data visualization.
 
 ---
 
-## Tools and Technologies Used
+## 🔎 Project Overview
 
-* **Python** – Data cleaning and analysis
-* **Jupyter Notebook / Google Colab** – Data processing and analysis
-* **Pandas** – Data manipulation and analysis
-* **Microsoft Power BI** – Dashboard creation and visualization
-* **Microsoft Excel** – Dataset handling and preprocessing
-* **Microsoft PowerPoint** – Project presentations
-* **GitHub** – Project version control and documentation
+Supply chain data contains information related to products, sales, inventory, manufacturing, shipping, and other business operations.
 
----
+The objective of this project is to transform raw supply chain data into meaningful insights using **Python, Pandas, and Microsoft Power BI**.
 
-## Project Structure
+The project follows a complete data analytics process:
 
-### 1. Datasets
-
-The repository contains the datasets used during the project, including:
-
-* `01-Cleaned_Skincare_Dataset (2).xlsx`
-* `supply_chain_raw_dataset.xlsx`
-
-These datasets were used for data preparation, analysis, visualization, and dashboard development.
+**Raw Data → Data Preparation → Analysis → KPI Development → Visualization → Dashboard → Insights**
 
 ---
 
-### 2. Data Preprocessing Notebook
+## 🎯 Objectives
+
+* Analyze the available supply chain data.
+* Clean and preprocess the raw dataset.
+* Perform exploratory data analysis.
+* Identify important business patterns and trends.
+* Develop meaningful Key Performance Indicators (KPIs).
+* Create interactive Power BI dashboards.
+* Analyze supply chain performance.
+* Provide a clear visual view of business information.
+* Present the project work through milestone reports and presentations.
+
+---
+
+## 🧰 Technologies Used
+
+| Technology                          | Purpose                           |
+| ----------------------------------- | --------------------------------- |
+| **Python**                          | Data preprocessing and analysis   |
+| **Pandas**                          | Data manipulation                 |
+| **Jupyter Notebook / Google Colab** | Data analysis                     |
+| **Microsoft Excel**                 | Dataset management                |
+| **Microsoft Power BI**              | Interactive dashboards            |
+| **Microsoft PowerPoint**            | Presentations                     |
+| **GitHub**                          | Project storage and documentation |
+
+---
+
+## 📁 Project Workflow
+
+### Step 1 — Dataset Preparation
+
+The project uses the supply chain dataset:
+
+`Supply_chain_raw_dataset.xlsx`
+
+A cleaned skincare dataset is also included:
+
+`01-Cleaned_Skincare_Dataset (2).xlsx`
+
+---
+
+### Step 2 — Data Preprocessing
+
+The preprocessing work is available in:
 
 `15-preprocessing.ipynb`
 
-This Jupyter/Colab notebook contains the Python-based work performed for data preprocessing and analysis.
+The notebook is used for preparing the data before visualization and dashboard development.
 
-The notebook includes activities such as:
+The process includes:
 
 * Loading the dataset
-* Understanding the data
-* Data cleaning
-* Data preprocessing
-* Data analysis
-* Preparing data for visualization
+* Inspecting the data
+* Cleaning the data
+* Preparing the required columns
+* Performing data analysis
+* Preparing information for visualization
 
 ---
 
-## Project Milestones
+### Step 3 — KPI & Data Analysis
 
-### Milestone 1
+The processed data is analyzed to understand important supply chain performance indicators.
 
-Files:
+The analysis focuses on areas such as:
+
+* Revenue
+* Product sales
+* Stock levels
+* Product categories
+* Supply chain performance
+* Operational information
+
+---
+
+### Step 4 — Dashboard Development
+
+Microsoft Power BI is used to convert the analyzed data into interactive dashboards.
+
+The repository contains Power BI files for different stages of the project, including:
+
+* `milestone-3.pbix`
+* `Exeutive overview.pbix`
+* `group_data_dashboard(1-4) (2).pbix`
+
+---
+
+# 📌 Milestone Progress
+
+## 🟢 Milestone 1 — Project Foundation
+
+**Files:**
 
 * `02-Milestone 1 ppt.pptx`
 * `03-Milestone 1 Report.pdf`
 
-This milestone contains the initial stage of the project, including understanding the problem, dataset, project requirements, and proposed approach.
+This milestone establishes the foundation of the project.
+
+It covers the initial understanding of the problem, project requirements, dataset, and proposed approach.
 
 ---
 
-### Milestone 2
+## 🔵 Milestone 2 — Data & Initial Dashboards
 
-Files:
+**Files:**
 
 * `04-Milestone 2 ppt.pptx`
 * `05-Milestone 2 Report .pdf`
 * `06-Milestone 2 Dashboards.pdf`
 
-This milestone covers the next stage of the project, including further data preparation, analysis, and dashboard development.
+This stage focuses on continuing the data analysis process and developing initial dashboard visualizations.
 
 ---
 
-### Milestone 3
+## 🟣 Milestone 3 — KPI & Dashboard Analysis
 
-Files:
+**Files:**
 
 * `07-milestone3.pptx`
 * `08-milestone3 report.docx`
@@ -101,15 +147,15 @@ Files:
 * `14-advanced kpi dashboard2(m3).png`
 * `milestone-3.pbix`
 
-This milestone focuses on KPI development, dashboard creation, and visualization of the analyzed supply chain data.
+This milestone focuses on advanced KPI visualization and dashboard development.
 
-The dashboards present important information using KPI cards, charts, filters, and other Power BI visualizations.
+The dashboard work provides a visual representation of important supply chain information and performance indicators.
 
 ---
 
-### Milestone 4
+## 🟠 Milestone 4 — Executive View & Optimization
 
-Files:
+**Files:**
 
 * `10- milestone4 ppt.pptx`
 * `11-Milestone4 report.docx`
@@ -119,172 +165,197 @@ Files:
 * `route(m3),executive overview(m4).pdf`
 * `scorecards(m3),optimization(m4).pdf`
 
-This milestone focuses on **Supply Chain Visibility and Optimization**.
+The final milestone focuses on presenting supply chain information through an executive-level dashboard and optimization-oriented analysis.
 
-The work includes:
+It includes:
 
 * Executive Overview
-* Supply Chain Performance Analysis
-* KPI Scorecards
-* Route Analysis
-* Performance Optimization
-* Interactive Power BI dashboards
+* Route analysis
+* Performance scorecards
+* Optimization dashboard
+* KPI-based visual analysis
 
 ---
 
-## Power BI Dashboards
+# 📊 Dashboard Collection
 
-The repository contains Power BI dashboard files developed during the project.
+The repository contains dashboard outputs in different formats.
 
-### Milestone 3 Power BI Dashboard
+### Power BI Files
 
-`milestone-3.pbix`
+* `milestone-3.pbix`
+* `Exeutive overview.pbix`
+* `group_data_dashboard(1-4) (2).pbix`
 
-This Power BI file contains the dashboard developed as part of Milestone 3.
+### Dashboard Images
 
-### Executive Overview
+* `13-advanced kpi dashboard1(m3).png`
+* `14-advanced kpi dashboard2(m3).png`
+* `executive overview(m4).jpeg`
 
-`Exeutive overview.pbix`
+### Dashboard Reports
 
-`executive overview(m4).jpeg`
+* `06-Milestone 2 Dashboards.pdf`
+* `09-Milestone 3 Dashboards.pdf`
+* `12-Milestone 4 Dashboards.pdf`
+* `group_data_dashboard(1-4).pdf`
+* `route(m3),executive overview(m4).pdf`
+* `scorecards(m3),optimization(m4).pdf`
 
-The Executive Overview provides a high-level view of supply chain information and important performance indicators.
+---
 
-### Group Power BI Dashboard
+# 📈 Supply Chain Analysis
+
+The project provides a visual approach to understanding supply chain operations.
+
+The dashboards help in analyzing:
+
+### 📦 Product Performance
+
+Understanding product-related information and sales performance.
+
+### 💰 Revenue
+
+Analyzing revenue-related information to understand business performance.
+
+### 📊 Sales
+
+Monitoring the number of products sold and identifying sales patterns.
+
+### 🏭 Inventory / Stock
+
+Analyzing stock levels and understanding inventory conditions.
+
+### 🚚 Route & Shipping Analysis
+
+Using dashboard visualizations to understand route-related information and supply chain movement.
+
+### 📋 KPI Monitoring
+
+Using KPI cards and scorecards to present important performance measures.
+
+### ⚙️ Optimization
+
+Using the final dashboard to identify areas where supply chain performance can be improved.
+
+---
+
+# 👥 Group Work
+
+The repository also includes consolidated group dashboard work:
 
 `group_data_dashboard(1-4) (2).pbix`
 
-This file contains the consolidated Power BI dashboard work from the different milestones.
+and
+
+`group_data_dashboard(1-4).pdf`
+
+These files represent the combined dashboard work completed during the internship project.
 
 ---
 
-## Group Deliverables
+# 📚 Project Documentation
 
-The repository also contains the consolidated group work completed during the project:
+The complete project documentation is organized through milestone presentations and reports.
 
-* `group_data_dashboard(1-4) (2).pbix`
-* `group_data_dashboard(1-4).pdf`
-
-These files contain the combined dashboard work developed across the project milestones.
-
----
-
-## Key Work Performed
-
-The project involved the following major activities:
-
-### 1. Data Collection
-
-* Obtained the required datasets for analysis.
-* Identified the relevant data required for the project.
-
-### 2. Data Cleaning
-
-* Checked the datasets for data quality issues.
-* Cleaned and prepared the data for further analysis.
-
-### 3. Data Preprocessing
-
-* Used Python and Pandas for data preprocessing.
-* Prepared the datasets for analysis and visualization.
-
-### 4. Data Analysis
-
-* Performed exploratory analysis of the available data.
-* Analyzed important supply chain-related information.
-* Identified useful patterns and insights.
-
-### 5. KPI Development
-
-* Developed important KPIs to understand supply chain performance.
-* Used KPI cards and visualizations to present important measures.
-
-### 6. Data Visualization
-
-* Created charts and visual representations of important information.
-* Used filters and slicers for interactive analysis.
-
-### 7. Dashboard Development
-
-* Used Microsoft Power BI to create interactive dashboards.
-* Developed KPI dashboards and an Executive Overview.
-* Created visualizations for supply chain performance and optimization.
-
-### 8. Performance Optimization
-
-* Analyzed supply chain performance using dashboard visualizations.
-* Developed an optimization-focused dashboard as part of the final milestone.
-
-### 9. Documentation
-
-* Prepared milestone presentations.
-* Prepared milestone reports.
-* Created dashboard documentation.
-* Organized the complete project work in GitHub.
+| Stage       | Presentation              | Report                       |
+| ----------- | ------------------------- | ---------------------------- |
+| Milestone 1 | `02-Milestone 1 ppt.pptx` | `03-Milestone 1 Report.pdf`  |
+| Milestone 2 | `04-Milestone 2 ppt.pptx` | `05-Milestone 2 Report .pdf` |
+| Milestone 3 | `07-milestone3.pptx`      | `08-milestone3 report.docx`  |
+| Milestone 4 | `10- milestone4 ppt.pptx` | `11-Milestone4 report.docx`  |
 
 ---
 
-## Repository Contents
+# 💡 Key Learning Outcomes
 
-| File                                   | Description                                            |
-| -------------------------------------- | ------------------------------------------------------ |
-| `01-Cleaned_Skincare_Dataset (2).xlsx` | Cleaned skincare dataset                               |
-| `supply_chain_raw_dataset.xlsx`        | Raw supply chain dataset                               |
-| `02-Milestone 1 ppt.pptx`              | Milestone 1 presentation                               |
-| `03-Milestone 1 Report.pdf`            | Milestone 1 report                                     |
-| `04-Milestone 2 ppt.pptx`              | Milestone 2 presentation                               |
-| `05-Milestone 2 Report .pdf`           | Milestone 2 report                                     |
-| `06-Milestone 2 Dashboards.pdf`        | Milestone 2 dashboards                                 |
-| `07-milestone3.pptx`                   | Milestone 3 presentation                               |
-| `08-milestone3 report.docx`            | Milestone 3 report                                     |
-| `09-Milestone 3 Dashboards.pdf`        | Milestone 3 dashboards                                 |
-| `10- milestone4 ppt.pptx`              | Milestone 4 presentation                               |
-| `11-Milestone4 report.docx`            | Milestone 4 report                                     |
-| `12-Milestone 4 Dashboards.pdf`        | Milestone 4 dashboards                                 |
-| `13-advanced kpi dashboard1(m3).png`   | Advanced KPI dashboard 1                               |
-| `14-advanced kpi dashboard2(m3).png`   | Advanced KPI dashboard 2                               |
-| `15-preprocessing.ipynb`               | Python/Jupyter notebook for preprocessing and analysis |
-| `milestone-3.pbix`                     | Milestone 3 Power BI dashboard                         |
-| `Exeutive overview.pbix`               | Executive Overview Power BI dashboard                  |
-| `executive overview(m4).jpeg`          | Executive Overview dashboard image                     |
-| `group_data_dashboard(1-4) (2).pbix`   | Consolidated group Power BI dashboard                  |
-| `group_data_dashboard(1-4).pdf`        | Consolidated group dashboard                           |
-| `route(m3),executive overview(m4).pdf` | Route and Executive Overview dashboards                |
-| `scorecards(m3),optimization(m4).pdf`  | Scorecards and optimization dashboards                 |
-| `LICENSE`                              | Project license                                        |
+Through this project, I gained practical experience in:
 
----
-
-## Outcome
-
-The project provided practical experience in the complete **data analytics workflow**, starting from raw data and preprocessing and progressing toward data analysis, KPI development, visualization, and interactive Power BI dashboards.
-
-It also helped develop practical skills in:
-
-* Python
+* Data cleaning
+* Data preprocessing
+* Exploratory data analysis
+* Python programming
 * Pandas
-* Data Cleaning
-* Data Preprocessing
-* Data Analysis
-* Microsoft Excel
-* Microsoft Power BI
-* Data Visualization
-* KPI Development
-* Dashboard Development
-* Supply Chain Analytics
-* GitHub
+* Data visualization
+* KPI development
+* Power BI
+* Interactive dashboard creation
+* Supply chain analytics
+* Business-oriented data interpretation
+* Project documentation
+* GitHub repository management
 
 ---
 
-## Internship
+# 🏆 Project Outcome
 
-**Infosys Springboard Internship 7.0**
+The project demonstrates how raw supply chain data can be transformed into useful business insights through a structured data analytics workflow.
 
-This repository serves as a record of the project work, milestone submissions, dashboards, datasets, reports, presentations, preprocessing work, and group deliverables completed during the internship.
+The final dashboards provide a consolidated visual understanding of supply chain performance and help users explore important KPIs, operational information, and optimization opportunities.
 
 ---
 
-## License
+# 🎓 Internship Information
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+**Program:** Infosys Springboard Internship 7.0
 
+**Project:** Supply Chain Visibility & Optimization
+
+**Domain:** Data Analytics / Business Intelligence
+
+**Primary Tools:** Python, Pandas, Excel, Power BI, GitHub
+
+---
+
+# 📂 Repository Highlights
+
+This repository brings together the complete internship work in one place:
+
+```text
+Infosys-Springboard-Internship-7.0
+│
+├── Datasets
+│   ├── 01-Cleaned_Skincare_Dataset (2).xlsx
+│   └── supply_chain_raw_dataset.xlsx
+│
+├── Data Preprocessing
+│   └── 15-preprocessing.ipynb
+│
+├── Milestone 1
+│   ├── Presentation
+│   └── Report
+│
+├── Milestone 2
+│   ├── Presentation
+│   ├── Report
+│   └── Dashboard
+│
+├── Milestone 3
+│   ├── Presentation
+│   ├── Report
+│   ├── Dashboards
+│   └── Power BI
+│
+├── Milestone 4
+│   ├── Presentation
+│   ├── Report
+│   ├── Executive Overview
+│   ├── Route Analysis
+│   └── Optimization
+│
+└── Group Deliverables
+    ├── Power BI Dashboard
+    └── Dashboard PDF
+```
+
+---
+
+# 📌 Repository Purpose
+
+This GitHub repository serves as a complete record of the work completed during the **Infosys Springboard Internship 7.0**, including datasets, preprocessing, milestone submissions, Power BI dashboards, visualizations, reports, presentations, and group deliverables.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
